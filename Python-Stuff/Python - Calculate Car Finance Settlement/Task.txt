@@ -1,0 +1,20 @@
+Create an Algorithm and flowchart then write a program that will ask the user for a month as an Integer and calculate how much has been paid towards a car and then calculate a Settlement figure
+
+For example, if the user enters February, then  the payments for January & February are added together and then subtracted from the Balance. 
+
+Settlement Figure = Balance - Payments
+
+The Balance is 2500
+The program should store the car payments in each month in an array. The values are as follows:
+January 160
+February 160
+March 150
+April 150
+May 150
+June 150
+July 160
+August 155
+September 150
+October 160
+November 150
+December 150

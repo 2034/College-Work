@@ -1,0 +1,40 @@
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="css/global.css">
+        <link rel="stylesheet" href="css/assets.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>Info</title>
+        <link rel="icon" href="img/favicon.ico" type="image/x-icon" sizes="any">
+    </head>
+    <body>
+        <div class="layout">
+            <div class="header">
+                <div class="tabs">
+                    <a class="tab-wrapper tab-wrapper-active" href="index.html">
+                        <div class="tab">Home</div>
+                    </a>
+                    <a class="tab-wrapper" href="facts.html">
+                        <div class="tab">Facts</div>
+                    </a>
+                    <a class="tab-wrapper" href="contact.html">
+                        <div class="tab">Contact</div>
+                    </a>
+                </div>
+            </div>
+            <div class="work-container">
+                <div class="work-preview-container"></div>
+            </div>
+            <div class="footer">
+                <div class="date" id="current-date"></div>
+            </div>
+        </div>
+        <div id="image-modal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="modal-image">
+            <iframe id="modal-video" class="modal-content" frameborder="0" allowfullscreen></iframe>
+            <div id="caption"></div>
+        </div>
+        <script src="js/global.js"></script>
+        <script src="js/assets.js"></script>
+    </body>
+</html>

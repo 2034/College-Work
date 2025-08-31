@@ -1,0 +1,3 @@
+Create an algorithm and a new program that asks the user what type of pet insurance they want
+If the user enters cat or dog then the quote is £10pcm
+Anything else they are told is £25pcm

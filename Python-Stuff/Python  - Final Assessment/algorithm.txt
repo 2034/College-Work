@@ -1,0 +1,17 @@
+Input studentName
+Input courseworkMark
+Input prelimMark
+
+Make sure both values are between 0 and their max score
+
+Calculate totalMark (courseworkMark + prelimMark)
+Calculate coursePercentage (totalMark * 100)/150
+
+Get grade from coursePercentage:
+    If coursePercentage >= 70 then grade is A
+    Else if coursePercentage >= 60 then grade is B
+    Else if coursePercentage >= 50 then grade is C
+    Else if coursePercentage >= 45 then grade is D
+    Else grade is No grade
+
+Print coursePercentage and grade

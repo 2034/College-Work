@@ -1,0 +1,18 @@
+Create a new program that has the following functions and Algorithm
+
+GetName
+
+This function will return the name of the user
+
+GetAge
+
+This function will return the age of the user
+
+Algorithm
+
+Get Name from User
+Get Age from user
+IF age >=18 welcome user using Name
+Else
+    Tell user they are too young using Name
+ENDIF

@@ -1,0 +1,22 @@
+Create a new program that has the following functions and Algorithm
+
+GetInfo(option)
+
+This function prompt will change for each of the different options required f"Please enter your {option} :"
+
+This function will return a string
+
+ 
+
+Algorithm
+
+Get Name from GetInfo("name")
+Get Age from GetInfo("age")
+Get Address from GetInfo("address")
+IF
+Age >= 21
+Welcome User
+Print Address on screen
+ELSE
+    print you are too young
+ENDIF

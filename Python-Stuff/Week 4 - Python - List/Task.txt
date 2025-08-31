@@ -1,0 +1,13 @@
+You will develop a python program that will ask a user for their top 3 favourite films, it will store these films in a list and print it out. the program will then ask them for their next 2 favourite films save those a new list add it to the first list and print out their top 5 films
+
+Open Visual studio code
+Write out a python program that
+will ask a user for their top 3 favourite films
+Stores these films in a list
+print it out
+ask for two more films
+store these in a new list
+add the lists together
+print out the new list
+Displays the result
+

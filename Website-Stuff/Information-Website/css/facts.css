@@ -1,0 +1,46 @@
+/* Was tested on Mobile: 375px x 667px (iPhone 6/7/8) - 768px x 1024px (iPad) */
+.facts-grid {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.fact-box {
+    padding: 15px;
+    border: 2.5px solid rgba(255, 213, 0, 0.8);
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .facts-grid {
+        padding: 30px;
+        gap: 30px;
+    }
+
+    .fact-box {
+        padding: 20px;
+        font-size: 18px;
+    }
+}
+
+
+/* Desktop */
+@media (min-width: 1025px) {
+    .facts-grid {
+        padding: 40px;
+        gap: 40px;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .fact-box {
+        padding: 25px;
+        font-size: 20px;
+    }
+}

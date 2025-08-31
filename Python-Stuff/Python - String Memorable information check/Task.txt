@@ -1,0 +1,8 @@
+Create a program that has a string as below:
+
+secret="This is my secret password shhh"
+Get the length of the string secret
+Generate a random number between 1 and length of the string secret
+Ask user to guess the letter at the location of the random number selected
+IF the guess is correct print "Logged in now "
+ELSE print "You are locked out now !"

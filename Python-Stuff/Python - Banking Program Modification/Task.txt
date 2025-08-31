@@ -1,0 +1,2 @@
+Modify the banking example in the notes so that it checks to see
+IF you have enough money before allowing you to withdraw, if you dont have enough in the account a message should be displayed telling you that and no money withdrawn

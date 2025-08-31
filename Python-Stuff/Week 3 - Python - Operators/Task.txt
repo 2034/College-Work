@@ -1,0 +1,22 @@
+Step 1
+Create a variable first_number and assign it the value 5
+create a variable second_number and assign it the value 10
+then use the Print Function to print these variables
+
+Step 2
+Use the variables you created in step 1 and use the print function to add these two values together
+create a second print function to subtract the first number from the second
+create a third print function to multiply the first number and the second
+create a fourth print function to divide the second number by the first
+
+Step 3
+Beneath your previous print function 
+create four more variables 
+addition
+subtraction
+multiplication
+division
+
+using the above operators and the variables first_number and second_number
+use these variable to store the results of the associated sums and then print them out
+finally comment out what each equation is doing.

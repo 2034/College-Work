@@ -1,0 +1,11 @@
+Create a program that will read in a first and last name,
+
+It will then show a menu as below and manipulate the string 
+
+Print in capitals
+Print in lowercase
+Print Capitalised
+Print length of string
+Print position number of the space ' ' 
+Print the string with any white space removed.
+Print the letter 0 of the first name and last name together to show a username e.g. username123

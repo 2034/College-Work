@@ -1,0 +1,7 @@
+Ask user to enter their full name e.g. Full Name
+
+Get the Initials from the 2 names entered e.g. V M
+
+Use Random to find a number between 1 and 100.
+
+Add the number after the initials and print as a persons Username e.g. VM32

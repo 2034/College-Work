@@ -1,0 +1,41 @@
+.welcome-container {
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome-message {
+    padding: 15px;
+    padding-left: 10%;
+    font-size: 1.5rem;
+    text-align: left;
+    color: rgb(255,255,255,0.8);
+}
+
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .welcome-container {
+        max-width: 600px;
+        padding: 25px;
+    }
+
+    .welcome-message {
+        font-size: 1.8rem;
+    }
+}
+
+/* Desktop */
+@media (min-width: 1025px) {
+    .welcome-container {
+        max-width: 800px;
+        padding: 30px;
+    }
+
+    .welcome-message {
+        font-size: 2rem;
+    }
+}

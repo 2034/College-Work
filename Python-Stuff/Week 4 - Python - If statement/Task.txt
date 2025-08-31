@@ -1,0 +1,7 @@
+You will develop a python program to calculate grades, it should take a number between 0 and 100 from the user and provide a letter grade based upon that number using If / else ifs and else statements
+
+90 - 100 = A
+70 - 89 = B
+50 - 69 = C
+40 - 49 = D
+0 - 39 = Fail 

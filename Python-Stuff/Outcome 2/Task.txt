@@ -1,0 +1,8 @@
+You have been commissioned by local government to create an information application to promote healthy living amongst primary school children. 
+
+You have to create an application which contains information about different areas of healthy living i.e. eating healthily / exercising etc.
+
+It is your responsibility to plan, develop, test and evaluate the product.
+
+Task One:
+Once you have proposed, designed and planned your application you must now implement an appropriate solution based on the criteria outlined in LO1.

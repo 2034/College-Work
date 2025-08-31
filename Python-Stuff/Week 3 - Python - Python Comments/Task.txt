@@ -1,0 +1,5 @@
+Open your previous project
+Add comments above your variables
+Use your comments to describe what each variable is
+Take a screenshot 
+Submit it

@@ -1,0 +1,10 @@
+Using the Algorithm below write Python that will ask user for 2 numbers and then display the Addition, Subtraction
+
+Ask user for number1
+Get Number1
+Ask user for number2
+Get Number2
+Calculate the addition = number1 + number2
+Display answer on screen
+Calculate the subtraction = number1 - number2
+Display answer on screen

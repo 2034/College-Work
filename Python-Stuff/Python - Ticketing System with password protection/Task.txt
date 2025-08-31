@@ -1,0 +1,29 @@
+Modify the Ticketing program so that it asks the user for a password to enter the program. If they get it wrong 3 times they are not allowed to use the program.
+
+Also once password is correct make the code repeat until the user selects exit
+
+Hint - look at previous examples
+
+Algorithm
+
+For count 3 attempts
+    Ask user for password
+    if password is correct
+        Welcome message
+        set choice to 0
+        while choice is not exit
+            Display Menu
+            Get choice
+            if choice is 1 
+                calculate adult
+            else if choice is 2
+                calculate child
+            else if choice is 3
+                calculate student
+            else is choice is 4
+                calculate oap
+            else if choice is exit 
+                Print goodbye
+                break
+    if count is 3
+        Say bye to user

@@ -1,0 +1,29 @@
+Create a new program that will display a menu below and uses functions and comments :
+
+1: Show List
+2: Add weeks temperatures
+3: Show Average temp
+4: Show Max Temp
+5: Exit program
+
+The Algorithm below should provide a description of what is expected. Remember to use functions for each of the list options
+
+While choice is not 5
+    Show Menu
+    Get Choice 
+    if choice is 1
+        Show list
+    Else If choice is 2
+        FOR 7 days
+            Ask for days temperature
+            Add to list
+        END FOR
+    Else if choice is 3
+        Find then display average temp
+    Else if choice is 4
+        Find then display max temp
+    Else if choice is 5
+        Display exit message
+    else tell user they entered wrong choice
+    END ELIF
+END WHILE

@@ -1,0 +1,29 @@
+Create a new program that asks the user for a students name and exam mark and then prints the Grade using Algorithm below.
+
+Allow user 3 attempts to get password correct
+
+Use a function to get and return student name
+
+Use a function to get and return student mark
+
+Make sure to use Comments to explain what is happening
+
+For 3 attempts
+    Ask user for password
+    IF password incorrect
+        Display error message
+    ELSE 
+        Welcome to the Grading Program
+        WHILE exit not chosen
+            Get student Name
+            Get Student Mark
+            If the mark is >= 70 print out that student name and that they got an A
+            else If the mark is >= 60 print out that student name and that they got a B
+            else If the mark is >= 50 print out that student name and that they got a C
+            else print out student name and that they failed
+            END IF
+        Ask user if they want to run again
+        END WHILE
+END FOR
+
+Also once password is correct make the code repeat until the user selects exit

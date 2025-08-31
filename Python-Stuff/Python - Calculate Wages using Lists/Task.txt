@@ -1,0 +1,14 @@
+Create a new  program that will ask the user for a month as an Integer and calculate how much the person has earned for the year till the end of the month. For example, if the user enters March, then that is the wages from Jan, Feb , March added together 
+The program should store the wages in an array. The wages are as follows:
+January 967
+February 967
+March 1000
+April 1000
+May 650
+June 1100
+July 1000
+August 1250
+September 967
+October 1000
+November 1200
+December 650

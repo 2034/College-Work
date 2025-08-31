@@ -1,0 +1,7 @@
+Open Visual studio code
+Write out a python program that
+Takes and stores the users name
+Asks the user to enter a number
+Asks the user to enter a 2nd number
+Adds the numbers together
+Displays the result

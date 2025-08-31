@@ -1,0 +1,13 @@
+Create a program that will do the following:
+
+Algorithm
+
+Get item name
+set cost = 0
+while cost <= 0 
+    Get cost
+set quantity = 0
+where quantity <=0
+    Get quantity
+Calculate price = cost * quantity
+Output price and item name

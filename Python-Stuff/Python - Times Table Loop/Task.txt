@@ -1,0 +1,2 @@
+Modify the Times table FOR  Loop program so that it will write out the table from 0 - 12 ( 13 times )
+Write the Algorithm for the Times Table program above

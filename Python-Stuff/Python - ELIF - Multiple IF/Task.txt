@@ -1,0 +1,8 @@
+Create an algorithm and then a new program that asks the user for a students name and exam mark and then prints the Grade as shown below.
+
+Make sure to use Comments to explain what is happening
+
+If the mark is >= 70 print out that student name and that they got an A
+else If the mark is >= 60 print out that student name and that they got a B
+else If the mark is >= 50 print out that student name and that they got a C
+else print out student name and that they failed

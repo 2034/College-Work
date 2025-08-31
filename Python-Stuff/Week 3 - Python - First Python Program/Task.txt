@@ -1,0 +1,5 @@
+Open Visual studio code
+Write out a hello world program
+Run the program
+Take a screenshot
+Submit screenshot  

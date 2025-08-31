@@ -1,0 +1,8 @@
+Create a program that will 
+
+Ask user for name
+Ask user for hours
+Ask user for rate
+Calculate wages
+Calculate tax ( wages * 20/100)
+Display take home pay as ( wages - tax )

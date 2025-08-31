@@ -1,0 +1,4 @@
+Remember to use indentation when writing Algorithms. THe code for these is in the notes !
+
+Write an Algorithm for the AND Example ( username & password )
+Write an Algorithm for the OR Example ( Firstname or LastName )

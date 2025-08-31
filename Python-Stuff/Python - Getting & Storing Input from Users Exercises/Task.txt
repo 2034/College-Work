@@ -1,0 +1,2 @@
+Write a Python program that displays the output as shown below using the variables the user entered
+Use comments and ask the user to enter a name & exam score and store in a Variable

@@ -1,0 +1,1 @@
+Write an algorithm for the WHILE Calculator program

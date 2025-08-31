@@ -1,0 +1,3 @@
+Ask user how many cm they want to convert to inches
+Calculate the number of inches as ( centimeters/2.54)
+Display the number of inches

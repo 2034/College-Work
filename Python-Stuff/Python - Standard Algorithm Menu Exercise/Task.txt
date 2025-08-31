@@ -1,0 +1,34 @@
+Create a new program with the menu below, use functions and comments and using the given Algorithm
+
+Display List
+Find Highest Value
+Find Lowest Value
+Count number of values under 50
+Add Value 
+Exit
+ALGORITHM
+
+Create new list called Marks = [20,78,50,52,12,34,88,90,3,52]
+WHILE choice is not 6
+    Display Menu
+    Get choice
+    IF choice is 1
+        Display the full list
+    ELSE IF choice is 2
+        Find & print Highest Value 
+    ELSE IF choice is 3
+        Find and print Lowest Value
+    ELSE IF choice is 4
+        Count then print the number of values under 50
+    ELSE IF choice is 5
+        Get value from user
+        IF value is <0 or value >100
+            print error message, value out of range
+        ELSE
+            Append Value to end of list
+        END IF
+    ELSE IF choice is 6
+        Print Exit Message
+    ELSE Print error message
+    END ELIF
+END WHILE

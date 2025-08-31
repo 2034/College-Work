@@ -1,0 +1,3 @@
+Ask user how many tickets they want
+Calculate the cost at (tickets*19.99)
+Display the cost for the number of tickets

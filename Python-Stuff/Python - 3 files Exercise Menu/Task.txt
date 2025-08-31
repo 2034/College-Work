@@ -1,0 +1,11 @@
+Using the code from the completed previous exercise alter it as below:
+
+Make the user enter a username & password of your choice. They have 3 attempts to login only
+Display a menu to the user if they login correctly
+    - Read data from files
+    - Calculate Wages (add to a wages list)
+    - Print Wages
+    - Find & show Max wage
+    - Find & show Min Wage
+    - Count & show all wages under £100
+    - Exit

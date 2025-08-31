@@ -1,0 +1,1 @@
+You will develop a python program to work as a calculator, you should use functions, if statements, user inputs operators and print functions.
